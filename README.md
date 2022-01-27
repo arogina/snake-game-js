@@ -1,12 +1,12 @@
 # Snake Game
 
-Classic Snake game made with HTML, CSS and JavaScript.
+Classic 2D Snake game made with HTML, CSS and JavaScript. Source code is in "code" directory.
 
 <p align="center">
   <img src="https://github.com/arogina/snake-game-js/blob/main/img/snake.png?raw=true" width="500">
 </p>
 
-### How to run
+### How to run and play
 
 To run Snake game you must download entire code and open "index.html" file. Game will start automatically.
 <br/>
