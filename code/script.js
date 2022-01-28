@@ -133,8 +133,9 @@ function drawSnake(x, y) {
 function generateFood() {
     
     if (snake.length > 2) {
+        let isCollided;
         do {
-            let isCollided = false;
+            isCollided = false;
             randomizeFood();
             for (let i = 1; i < snake.length; i++) {
                 if (foodX === snake[i][0] && foodY === snake[i][1]) {
